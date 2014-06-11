@@ -8,6 +8,7 @@
 
 /* Load OAuth lib. You can find it at http://oauth.net */
 require_once('OAuth.php');
+// Noticed the caps are different from the actual file { oauth.php }. I had to change it to make it work on my server.
 
 /**
  * Twitter OAuth class
